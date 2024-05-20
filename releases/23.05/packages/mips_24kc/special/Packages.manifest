@@ -11,10 +11,10 @@ Require-User: einat:einat
 SourceDateEpoch: 1715433744
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: mips_24kc
-Installed-Size: 1010521
+Installed-Size: 1012924
 Filename: einat-ebpf_0.1.2-5_mips_24kc.ipk
-Size: 1006256
-SHA256sum: 11fd5b00ed2a88ea69e45ab4560a506508d6071e3f3f8880092b1cc82671983e
+Size: 1008579
+SHA256sum: a70dd019e8921bf7341a0ce13b6c2db105683089791c43a57ed626cec4ca6c07
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
