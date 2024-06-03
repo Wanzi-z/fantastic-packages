@@ -16,10 +16,10 @@ Depends: libc
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 2022856
+Installed-Size: 2022849
 Filename: alwaysonline_1.2.0-20231217_x86_64.ipk
-Size: 2020536
-SHA256sum: e02078b347125c3c7f9a1063a735531722f7a65a0e1f97021607a4cef290272e
+Size: 2020574
+SHA256sum: 21fd800b75d9405030781b8f85ffcea66db6674161f6fbc29df505d517ea6987
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -64,10 +64,10 @@ Depends: libc
 License: Apache-2.0
 Section: net
 Architecture: x86_64
-Installed-Size: 888654
+Installed-Size: 888653
 Filename: go-stun_0.1.4-10_x86_64.ipk
-Size: 888894
-SHA256sum: 13b479719c33d29182fcffdf2f10980e39e67ac1d38ff3dae92864a4182da531
+Size: 888913
+SHA256sum: 82ebc4d6549599c38e6380440a9eb43aeef2fa06eeb4e345b57cf679c4d46111
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -112,10 +112,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: x86_64
-Installed-Size: 7108
+Installed-Size: 7111
 Filename: libQt6Concurrent_6.7.1-1_x86_64.ipk
-Size: 7879
-SHA256sum: 9f4b4f8eb8470366bdb8479a0f1626079d923e15d32b6657e92693c6802d999e
+Size: 7875
+SHA256sum: adac33cbb86e58f2e12da4c44309beed236c51ed9821f2591544bfe515df2e31
 Description:  This package provides the Qt6 Concurrent v6.7.1 library.
 
 Package: libQt6Core
@@ -123,10 +123,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libpcre2-16
 Section: libs
 Architecture: x86_64
-Installed-Size: 2913392
+Installed-Size: 2913391
 Filename: libQt6Core_6.7.1-1_x86_64.ipk
-Size: 2907157
-SHA256sum: d1294b245375ca89fe4f550ed1bb736daf05a5c6644d94f6f484ed65c57b211a
+Size: 2907159
+SHA256sum: c2200a9b1825b3603dfed4807f621f53c65df049971a3c9cb722bc9c95997a78
 Description:  This package provides the Qt6 Core v6.7.1 library.
 
 Package: libQt6DBus
@@ -136,8 +136,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 324491
 Filename: libQt6DBus_6.7.1-1_x86_64.ipk
-Size: 324922
-SHA256sum: b341099598179f946d8b70fe620e74e919a6df37932d142928b9ccab80ed7da0
+Size: 324924
+SHA256sum: 5cd16dfcc6b67c34fea1b32a2154d9f5c482dd67b50716ab9cc85bcb6e0a6014
 Description:  This package provides the Qt6 DBus v6.7.1 library.
 
 Package: libQt6Gui
@@ -145,10 +145,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libdrm, libfreetype
 Section: libs
 Architecture: x86_64
-Installed-Size: 2934221
+Installed-Size: 2934222
 Filename: libQt6Gui_6.7.1-1_x86_64.ipk
-Size: 2931387
-SHA256sum: ef27beabf4252cb03edff6a1a7ce979f14036942c23de27d677d13c51e558558
+Size: 2931396
+SHA256sum: 6e33e7a3a309e9c5df50ad4f59a6e53f8462e1846fff39fa51ed1c57ec29d557
 Description:  This package provides the Qt6 Gui v6.7.1 library.
 
 Package: libQt6Network
@@ -158,8 +158,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 848278
 Filename: libQt6Network_6.7.1-1_x86_64.ipk
-Size: 847663
-SHA256sum: c95660408716ffe39fec660a229954d37f8ffcdf4f22d1fb416768ab3ab10572
+Size: 847656
+SHA256sum: e6bf99743646689a112ecb0c11acbf92c8c1c71b0673655982f5ea3c17c14fa3
 Description:  This package provides the Qt6 Network v6.7.1 library.
 
 Package: libQt6PrintSupport
@@ -169,8 +169,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 160598
 Filename: libQt6PrintSupport_6.7.1-1_x86_64.ipk
-Size: 160912
-SHA256sum: 9a730abd995fc0d0f28296b36725d5bc4e650f2789e3d24da3f0c6ad9b3ea2c9
+Size: 160890
+SHA256sum: bfbbcd214144a3fbef8f0bb9a1ad436d3c6141aa4e162da5f85d21f42a23e316
 Description:  This package provides the Qt6 PrintSupport v6.7.1 library.
 
 Package: libQt6Sql
@@ -180,8 +180,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 77112
 Filename: libQt6Sql_6.7.1-1_x86_64.ipk
-Size: 77844
-SHA256sum: 55d9e721aac86268cdb509be4c55bef893702525962197be49420e7cbf53d561
+Size: 77845
+SHA256sum: dc2ad8293e1b0194010facb7ab70177d590fc35706562038b158e5a842709770
 Description:  This package provides the Qt6 Sql v6.7.1 library.
 
 Package: libQt6Test
@@ -189,10 +189,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: x86_64
-Installed-Size: 138624
+Installed-Size: 138625
 Filename: libQt6Test_6.7.1-1_x86_64.ipk
-Size: 139348
-SHA256sum: b4385db5e272945643993438a2f6446fb0a829481da1ee1ef0c9b000473a9742
+Size: 139345
+SHA256sum: ad440f0d3019f82c6c45b7e2e629918ad9ef03086fbed6f6a0b88619c50953a2
 Description:  This package provides the Qt6 Test v6.7.1 library.
 
 Package: libQt6Widgets
@@ -200,10 +200,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: x86_64
-Installed-Size: 3255135
+Installed-Size: 3255136
 Filename: libQt6Widgets_6.7.1-1_x86_64.ipk
-Size: 3245948
-SHA256sum: ff8ee5f74884183514048a48a13b7c1f842c12531c98893b37596f5415f16989
+Size: 3246011
+SHA256sum: 7c5928d7f940202daf5c343acdda6a970cf9a997f667ca969c47ec5f9b0eb53a
 Description:  This package provides the Qt6 Widgets v6.7.1 library.
 
 Package: libQt6Xml
@@ -214,7 +214,7 @@ Architecture: x86_64
 Installed-Size: 63982
 Filename: libQt6Xml_6.7.1-1_x86_64.ipk
 Size: 64733
-SHA256sum: a0a941c4c5bbed6cdf84d488ce505cdea98f0056386e6687071fac09f63e1f62
+SHA256sum: 3fe70d5091d5f0c1696d5cf380db6aefcccbdcc53bacc96a9ce374abe871dd11
 Description:  This package provides the Qt6 Xml v6.7.1 library.
 
 Package: natmapt-client-script-deluge
@@ -355,10 +355,10 @@ License: GPL-2.0+
 Section: net
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: x86_64
-Installed-Size: 7915814
+Installed-Size: 7915818
 Filename: qbittorrent_4.6.4-1_x86_64.ipk
-Size: 7912425
-SHA256sum: 685d82ab7bab725e68fbabc6a3c8e6f9eecf0245252b5dd6fc964b0954612974
+Size: 7912430
+SHA256sum: 2185a1d9b68d40cf5657a74901fe1810cde26f9dfb6189a9e8286b693571db3b
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -370,10 +370,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Section: libs
 Architecture: x86_64
-Installed-Size: 36657
+Installed-Size: 36658
 Filename: qt6-plugin-libqcertonlybackend_6.7.1-1_x86_64.ipk
-Size: 37435
-SHA256sum: 503c88ab90f2a5c734d38bc18fb18c5e9f4b1fe527dabad1001e7d608773efc1
+Size: 37430
+SHA256sum: d7326add37a9d2ad0bf2ffe6ddbe6d4ad3c8256e86d2dfd9f855f7e412af05ec
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -381,10 +381,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: x86_64
-Installed-Size: 8754
+Installed-Size: 8752
 Filename: qt6-plugin-libqminimal_6.7.1-1_x86_64.ipk
-Size: 9484
-SHA256sum: 491dda73a7c5cfb8a309fcdb85ceeb1bec9a172cd1a0748dd71fefd87740f340
+Size: 9475
+SHA256sum: 7f9526ec7df341ee6a7ec013df82c606a7691b727db1bb149d15d4368d4e02b7
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -394,8 +394,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 26242
 Filename: qt6-plugin-libqnetworkmanager_6.7.1-1_x86_64.ipk
-Size: 26913
-SHA256sum: 7279a62cc7ba1a2836a671a7a4e80cfea501cb962ccaaf590b933b2b5899e549
+Size: 26914
+SHA256sum: 2298398e4d9232314cc3e11ff1dab8f49d2ac717dc90882a86c4fa13eda6dce6
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -405,8 +405,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 36764
 Filename: qt6-plugin-libqoffscreen_6.7.1-1_x86_64.ipk
-Size: 37488
-SHA256sum: dfee182ba124467eb7aecc9e2b64247dc13bc4d93e53202dd9314bb431e8a3cd
+Size: 37493
+SHA256sum: 384cd5277380d4dc91f97739a14c27765dbd507cfac082a9a73a052e5197e931
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -414,10 +414,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Section: libs
 Architecture: x86_64
-Installed-Size: 119351
+Installed-Size: 119352
 Filename: qt6-plugin-libqopensslbackend_6.7.1-1_x86_64.ipk
-Size: 120067
-SHA256sum: bf7679950d3e0195f4dbc7eb4891a26dc5e7eb267006d8837b57f207debf9546
+Size: 120065
+SHA256sum: ab8f7c7aa393b95fbec670c6e2f9c0169fee83800bfe79dce70cd23caad0d5f6
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -425,10 +425,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Sql
 Section: libs
 Architecture: x86_64
-Installed-Size: 975378
+Installed-Size: 975377
 Filename: qt6-plugin-libqsqlite_6.7.1-1_x86_64.ipk
 Size: 976135
-SHA256sum: 63ee3fc5233620a8325c763127ec067dfa29c017ad019f0301bcde1a3181d65e
+SHA256sum: 5eddb0cd396cd54d83d36431058055006fa2416f2b1495619776fc8e0c602cc0
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -438,8 +438,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 37225
 Filename: qt6-plugin-libqtuiotouchplugin_6.7.1-1_x86_64.ipk
-Size: 37964
-SHA256sum: 7d8a6f255ca32598d64a26f4965e61164bb5d0e7a38898bef2ab69a82316306c
+Size: 37959
+SHA256sum: 54bad3e8d487cfa8292bab7e5914cd8a70756ebd5027132cc89c855dc03acf08
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -449,8 +449,8 @@ Section: libs
 Architecture: x86_64
 Installed-Size: 44578
 Filename: qt6-plugin-libqxdgdesktopportal_6.7.1-1_x86_64.ipk
-Size: 45325
-SHA256sum: be15dc54c77ab72f633dbb107e4b8de644ffff1f678af4f21f3ea49634c4189a
+Size: 45320
+SHA256sum: dbfe415ea38178047728dcdd70a56aae5f67e01d1341e91ab966fd70ae459048
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -487,10 +487,10 @@ Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 9751243
+Installed-Size: 9751247
 Filename: speedtest-go_1.7.7-1_x86_64.ipk
-Size: 9735883
-SHA256sum: 46a554d41c514daee5acb32e18efcb181415b31b61b25200b5b342e2409ee720
+Size: 9735849
+SHA256sum: b79a40e71353ebf55d18e889a3fc1b6a14d82d5aac5382af1fbae4292ad18bf5
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
