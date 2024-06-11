@@ -11,10 +11,10 @@ Require-User: einat:einat
 SourceDateEpoch: 1715433744
 Maintainer: Anya Lin <hukk1996@gmail.com>
 Architecture: aarch64_generic
-Installed-Size: 901842
+Installed-Size: 901682
 Filename: einat-ebpf_0.1.2-5_aarch64_generic.ipk
-Size: 896716
-SHA256sum: 751f4fd3f0daf62b195468d1caa9654a3cd780c36772c7e8d5585de7fd0662bf
+Size: 897307
+SHA256sum: 40616b955e323020c297ee2522e45fb4e7176ced2e8f48cf6dfd90289a388955
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.

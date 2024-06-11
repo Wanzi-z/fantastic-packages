@@ -5,10 +5,10 @@ Provides: einat
 License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 839842
+Installed-Size: 840173
 Filename: einat-ebpf_0.1.2-5_arm_cortex-a15_neon-vfpv4.ipk
-Size: 835440
-SHA256sum: 3cac52c33cf41c5af27190ef9b175e7bd34cb67a1062dcacfb1e3d482fcb3e68
+Size: 835437
+SHA256sum: d20eae9b79e3e1ad5d10c23f31cc9f2e8a755e68e4f2d1e1f92d71a9bffa4e8b
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
