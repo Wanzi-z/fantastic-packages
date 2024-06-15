@@ -5,10 +5,10 @@ Provides: einat
 License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 Architecture: x86_64
-Installed-Size: 902737
+Installed-Size: 903122
 Filename: einat-ebpf_0.1.2-5_x86_64.ipk
-Size: 899211
-SHA256sum: 7377555d42b28e98fdfe8ff6df56afa6dcb5129e164b93353693eef485037cfe
+Size: 899676
+SHA256sum: 2ccbd45c2c545fecf0849c71f866bb71baf5309012c304b54a60879cb8e21681
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.

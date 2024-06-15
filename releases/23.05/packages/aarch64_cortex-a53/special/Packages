@@ -5,10 +5,10 @@ Provides: einat
 License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 Architecture: aarch64_cortex-a53
-Installed-Size: 901458
+Installed-Size: 901828
 Filename: einat-ebpf_0.1.2-5_aarch64_cortex-a53.ipk
-Size: 897053
-SHA256sum: c13df8ad5de31dcf72c6575497ff5e36e72a67c90bca79c6904a8420cf9b7a1e
+Size: 896880
+SHA256sum: d0a29822b1de575346a209806438a0c70f2d179df760f3d9f06aec6b161ea159
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.

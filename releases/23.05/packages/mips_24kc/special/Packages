@@ -5,10 +5,10 @@ Provides: einat
 License: GPL-2.0-or-later GPL-2.0-only
 Section: net
 Architecture: mips_24kc
-Installed-Size: 1011971
+Installed-Size: 1013607
 Filename: einat-ebpf_0.1.2-5_mips_24kc.ipk
-Size: 1007748
-SHA256sum: 2a941efb5d17dff8e0f830719d49acd6e67740d101743834c4d48599d5cc4769
+Size: 1009645
+SHA256sum: f186bb2959469c98b46e1dc7d0669dd957dd29630b08e48834ba74ca533f901c
 Description:  This eBPF application implements an "Endpoint-Independent Mapping" and
  "Endpoint-Independent Filtering" NAT(network address translation) on
  TC egress and ingress hooks.
