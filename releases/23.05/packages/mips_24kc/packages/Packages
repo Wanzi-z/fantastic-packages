@@ -16,10 +16,10 @@ Depends: libc
 License: MIT
 Section: net
 Architecture: mips_24kc
-Installed-Size: 1849768
+Installed-Size: 1849721
 Filename: alwaysonline_1.2.0-20231217_mips_24kc.ipk
-Size: 1846418
-SHA256sum: 4fac2a6bd209ba07e32724135c84dcaf2815fc157048c28c341e14b5ab91abc6
+Size: 1846317
+SHA256sum: 217a4192a4cbb8f1661a8886673cb805524fe04f614d7e63b6995c43a5f0e782
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -40,10 +40,10 @@ Depends: libc
 License: MIT
 Section: base
 Architecture: all
-Installed-Size: 311
+Installed-Size: 309
 Filename: fantastic-keyring_20240427-1_all.ipk
 Size: 1050
-SHA256sum: c49737bbac6b300030c83ec12d79d10f6a35c755334878afe2cf71355ab9770c
+SHA256sum: acce722d6c2b500210ff66231335b66ec57a0a92703fa016273735e4d7dea69c
 Description:  The keyring of with the developer using.
 
 Package: fantastic-packages-feeds
@@ -54,8 +54,8 @@ Section: base
 Architecture: all
 Installed-Size: 96
 Filename: fantastic-packages-feeds_20240504-1_all.ipk
-Size: 1506
-SHA256sum: 3f93802568482dcadd268e0816cbff4c5373964872fe9e5fcc1c509941963f25
+Size: 1505
+SHA256sum: 63e51b2c63aee5c7124b0e5f728d97364f0610439ebd3cae15bbcad3e4a03480
 Description:  Installer for fantastic-packages feeds
 
 Package: go-stun
@@ -64,10 +64,10 @@ Depends: libc
 License: Apache-2.0
 Section: net
 Architecture: mips_24kc
-Installed-Size: 837885
+Installed-Size: 838200
 Filename: go-stun_0.1.4-10_mips_24kc.ipk
-Size: 837621
-SHA256sum: 0e12cd273303bbb40795030c2fbed43de641e63530206e5d467724deadd3661b
+Size: 837886
+SHA256sum: 5f6bbe884792fb359457a3b739c2da9f44d91483aab6cc18c7dacd37a34cf139
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -114,8 +114,8 @@ Section: libs
 Architecture: mips_24kc
 Installed-Size: 8265
 Filename: libQt6Concurrent_6.7.1-1_mips_24kc.ipk
-Size: 8913
-SHA256sum: 02da5364b067e25b6aa6050acf012823ae78bc08e0af9711a203aff8d435ccab
+Size: 8915
+SHA256sum: d4cd9b4ff9822f7e8258df11c5ae86052a0184150f1b27f50b507fcde6a250d3
 Description:  This package provides the Qt6 Concurrent v6.7.1 library.
 
 Package: libQt6Core
@@ -123,10 +123,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libpcre2-16
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 2941909
+Installed-Size: 2941911
 Filename: libQt6Core_6.7.1-1_mips_24kc.ipk
-Size: 2928609
-SHA256sum: 71828600784862e817f714d201bd1d9537e4c61389cdeb580df82a7cbfa91cd9
+Size: 2928637
+SHA256sum: a2f02ebe3390192ec475a709c94812134eab78bfdce3944b31ab60cfa7a249ef
 Description:  This package provides the Qt6 Core v6.7.1 library.
 
 Package: libQt6DBus
@@ -134,10 +134,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 308599
+Installed-Size: 308600
 Filename: libQt6DBus_6.7.1-1_mips_24kc.ipk
-Size: 308263
-SHA256sum: bc491706060250a1f26cd4e0961607d6d5ccd42631bba19c3e79df5a5306b4c5
+Size: 308262
+SHA256sum: cdcadeb26ee85a037d96edf34eaaf15cac0a961af85fc0fd50ca4f56e46c35a8
 Description:  This package provides the Qt6 DBus v6.7.1 library.
 
 Package: libQt6Gui
@@ -145,10 +145,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libdrm, libfreetype
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 2809875
+Installed-Size: 2809876
 Filename: libQt6Gui_6.7.1-1_mips_24kc.ipk
-Size: 2802818
-SHA256sum: 045f80957d379ae33c9fdcc0f279e4142f843ae005c3e69476fbadfd8df1863c
+Size: 2802823
+SHA256sum: 44610898e24507bb9ef7fb4ff540c30e9fd7ba857680f580a2aaeb5b99fac864
 Description:  This package provides the Qt6 Gui v6.7.1 library.
 
 Package: libQt6Network
@@ -156,10 +156,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core, libopenssl3, krb5-libs
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 807765
+Installed-Size: 807767
 Filename: libQt6Network_6.7.1-1_mips_24kc.ipk
-Size: 805732
-SHA256sum: 9b61f66e40dd6087200b192983be61626747024a0a7dedaa169d9a0f8d0e97ea
+Size: 805728
+SHA256sum: 90e5ac18b52189587c47f9e99f036a32087c6ff6e3e72565ef667a8937aad64a
 Description:  This package provides the Qt6 Network v6.7.1 library.
 
 Package: libQt6PrintSupport
@@ -167,10 +167,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Widgets
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 153655
+Installed-Size: 153659
 Filename: libQt6PrintSupport_6.7.1-1_mips_24kc.ipk
-Size: 153734
-SHA256sum: 9b1cebef6c7e6c147aac9aaf68e0cd32a51b4cc324c9d80289a0716d05b856b0
+Size: 153745
+SHA256sum: 16e5555820a85450c5a29abed758c0c50ea203fb1e028460d7c9e5b83321b35f
 Description:  This package provides the Qt6 PrintSupport v6.7.1 library.
 
 Package: libQt6Sql
@@ -180,8 +180,8 @@ Section: libs
 Architecture: mips_24kc
 Installed-Size: 72049
 Filename: libQt6Sql_6.7.1-1_mips_24kc.ipk
-Size: 72766
-SHA256sum: d60b2000406abcc31de5306461fbb640ed6abcc84e1ef1f14244adf9a2ed62c7
+Size: 72777
+SHA256sum: 0dd92f09a7e3634cd4dab2cd7ef095c8edf933fc09d1e61cd229012a6607bdda
 Description:  This package provides the Qt6 Sql v6.7.1 library.
 
 Package: libQt6Test
@@ -189,10 +189,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 141441
+Installed-Size: 141442
 Filename: libQt6Test_6.7.1-1_mips_24kc.ipk
-Size: 141698
-SHA256sum: 83691ed68cc2bfb5545a0a7134bc5e1d9fb7d35812d6e4acd7c014e3c94aa210
+Size: 141705
+SHA256sum: 9d187c92f408841940b728f3c4c369e3ff5f4eb995b867aae340f9632bcf4cec
 Description:  This package provides the Qt6 Test v6.7.1 library.
 
 Package: libQt6Widgets
@@ -200,10 +200,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 3191311
+Installed-Size: 3191315
 Filename: libQt6Widgets_6.7.1-1_mips_24kc.ipk
-Size: 3182702
-SHA256sum: f58c2d404629f968060970f26c97a0925523ae66e5ed1180795d49469344ad1e
+Size: 3182674
+SHA256sum: 36530e5f7ce2d38f67dcd8663d79e64795cfaa520b665831ad0f4d7672b458dd
 Description:  This package provides the Qt6 Widgets v6.7.1 library.
 
 Package: libQt6Xml
@@ -213,8 +213,8 @@ Section: libs
 Architecture: mips_24kc
 Installed-Size: 59167
 Filename: libQt6Xml_6.7.1-1_mips_24kc.ipk
-Size: 59598
-SHA256sum: 3a9ad10436dae4091ab022a4806e147257ef9f65720c4eaf8b8f97483fd4613b
+Size: 59597
+SHA256sum: c8fc079fbb702a1afd22c6a654ffbb08d34aec9416a5dc4d24a28c6e0c08c47c
 Description:  This package provides the Qt6 Xml v6.7.1 library.
 
 Package: natmapt-client-script-deluge
@@ -343,8 +343,8 @@ Section: net
 Architecture: all
 Installed-Size: 366
 Filename: plain-nginx_20231028_all.ipk
-Size: 1163
-SHA256sum: f5e60557068dbf364218365765e95313ef1b49698b9ecf19f3a5bbb2f4930fb1
+Size: 1162
+SHA256sum: 0d5846bb8ec0b3312848a03ad18c07dd4fe29e8c43f55c7894340e8dfb98fb0f
 Description:  Read text document directly
 
 Package: qbittorrent
@@ -355,10 +355,10 @@ License: GPL-2.0+
 Section: net
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: mips_24kc
-Installed-Size: 7729767
+Installed-Size: 7729768
 Filename: qbittorrent_4.6.4-1_mips_24kc.ipk
-Size: 7722955
-SHA256sum: 3ac6e4360a654b04264489ca6944bfc319e2a9852498551a0bb95da60d16972e
+Size: 7722903
+SHA256sum: 5a269aae604cc311bf7407ae4117da84e3c9bbecc03ae0d670f86ea283c2444a
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -372,8 +372,8 @@ Section: libs
 Architecture: mips_24kc
 Installed-Size: 36769
 Filename: qt6-plugin-libqcertonlybackend_6.7.1-1_mips_24kc.ipk
-Size: 37355
-SHA256sum: 0fd2f3e3334a4866515dee70c8f1fce08a776f10c22a2c7f2bbae309afca8f99
+Size: 37360
+SHA256sum: 682467a6a35fb31e0b98c1a2ec611473cb5f5f9e7377b29534bf545ed3eaa655
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -381,10 +381,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 8658
+Installed-Size: 8657
 Filename: qt6-plugin-libqminimal_6.7.1-1_mips_24kc.ipk
-Size: 9290
-SHA256sum: 5544a13ce5cc22e7f47ea4dabc94ece92842bd268ab8e680efd12bc038c78465
+Size: 9289
+SHA256sum: fa5f33e78f7388d67813e2cc9086aa1eb4958d789b49081d0d22b8ef06927c99
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -392,10 +392,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libQt6Network
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 24988
+Installed-Size: 24987
 Filename: qt6-plugin-libqnetworkmanager_6.7.1-1_mips_24kc.ipk
-Size: 25605
-SHA256sum: 9776eb19c4e94f544a3d6a34f4136a1e624e0e335854739a00d011ce4c063c0a
+Size: 25620
+SHA256sum: f516f6c94c569ca2ee1be06231d56456076dfcdd3e425bb1c5263f983fa44c61
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -403,10 +403,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 36382
+Installed-Size: 36383
 Filename: qt6-plugin-libqoffscreen_6.7.1-1_mips_24kc.ipk
-Size: 36838
-SHA256sum: 31b0ca9e55890988eea184febdd6bc12604e7681109d96a7752b1acffc537fca
+Size: 36855
+SHA256sum: ad53d3c731752693f6f752c64a731864e707de9bd578df648a5f9edada1c2ae2
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -417,7 +417,7 @@ Architecture: mips_24kc
 Installed-Size: 115746
 Filename: qt6-plugin-libqopensslbackend_6.7.1-1_mips_24kc.ipk
 Size: 115857
-SHA256sum: eb3d9381963a434813d1dad982bf2de683a75f1a710d2d3b34c805ddb0d51eb1
+SHA256sum: 95ebd6eac92f7aed7951f8403942e0dcc28f2fff88b6b7b410f1c4959dbba43d
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -425,10 +425,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Sql
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 1019676
+Installed-Size: 1019678
 Filename: qt6-plugin-libqsqlite_6.7.1-1_mips_24kc.ipk
-Size: 1017580
-SHA256sum: 3b3da21cb7c8d1263c79f99d6b69fc027cf758ef66be56250b51748b5939715a
+Size: 1017584
+SHA256sum: 345a44802056307621725e61fc194ff08eb0464bf48f711e85a1f055a1b2f58a
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -436,10 +436,10 @@ Version: 6.7.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui, libQt6Network
 Section: libs
 Architecture: mips_24kc
-Installed-Size: 38454
+Installed-Size: 38456
 Filename: qt6-plugin-libqtuiotouchplugin_6.7.1-1_mips_24kc.ipk
-Size: 39107
-SHA256sum: 641e446b21356f92bb9bbe77be7e1ab6f29306ccd0e574aad24a04891512a1b0
+Size: 39098
+SHA256sum: 88b0ba0ec028ff1cf21408307b81889842ee33b07a4c0f83efa5fe1d23c740bc
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -449,8 +449,8 @@ Section: libs
 Architecture: mips_24kc
 Installed-Size: 41271
 Filename: qt6-plugin-libqxdgdesktopportal_6.7.1-1_mips_24kc.ipk
-Size: 41877
-SHA256sum: bd208184985cb71f8aef9fef0029bd1bd6f85b71a8491ad511a66cc153d9ec20
+Size: 41883
+SHA256sum: 73f97649d6c6d40672456d429f1e85e7bf177d4133289733b98bcc35a64e6d8c
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -487,10 +487,10 @@ Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: mips_24kc
-Installed-Size: 8909432
+Installed-Size: 8911818
 Filename: speedtest-go_1.7.7-1_mips_24kc.ipk
-Size: 8888676
-SHA256sum: eaeadb0138eaf4c89b447c58715c8f78dafd83b4ea394f7f4e2f10eb1256f8da
+Size: 8890634
+SHA256sum: fab1d80fb9410c6c3720dc1eddfa21c248e48cfa9da5140a626951f221fcb79b
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
