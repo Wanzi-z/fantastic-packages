@@ -280,10 +280,10 @@ Depends: libc, luci-app-xray, wget
 License: MPLv2
 Section: Custom
 Architecture: all
-Installed-Size: 3346
+Installed-Size: 3347
 Filename: luci-app-xray-status_3.4.1-1_all.ipk
-Size: 4123
-SHA256sum: bad95641748c0f2f2196c5e6fa8927610f6c9d8dc907612cf16f3701e06c2f2d
+Size: 4125
+SHA256sum: e28fdbbad1dd3274fcff07aade4a1391dcec428b4aa457dbfe94e41726f8fc71
 Description:  LuCI Support for Xray (Client-side Rendered) (status page).
 
 Package: luci-app-xray
